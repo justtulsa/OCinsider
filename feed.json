@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "openclawinsider.com",
     "description": "",
-    "home_page_url": "https://justtulsa.github.io/OCinsider",
-    "feed_url": "https://justtulsa.github.io/OCinsider/feed.json",
+    "home_page_url": "https://www.openclawinsider.com",
+    "feed_url": "https://www.openclawinsider.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sam Betteridge"
     },
     "items": [
         {
-            "id": "https://justtulsa.github.io/OCinsider/welcome-to-openclawinsidercom.html",
-            "url": "https://justtulsa.github.io/OCinsider/welcome-to-openclawinsidercom.html",
+            "id": "https://www.openclawinsider.com/welcome-to-openclawinsidercom.html",
+            "url": "https://www.openclawinsider.com/welcome-to-openclawinsidercom.html",
             "title": "Welcome to OpenClawInsider.com",
             "summary": "Test Post #1",
             "content_html": "<p>Test Post #1</p>",
