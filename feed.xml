@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>openclawinsider.com</title>
+    <link href="https://justtulsa.github.io/OCinsider/feed.xml" rel="self" />
+    <link href="https://justtulsa.github.io/OCinsider" />
+    <updated>2026-02-19T06:04:48-06:00</updated>
+    <author>
+        <name>Sam Betteridge</name>
+    </author>
+    <id>https://justtulsa.github.io/OCinsider</id>
+
+    <entry>
+        <title>Welcome to OpenClawInsider.com</title>
+        <author>
+            <name>Sam Betteridge</name>
+        </author>
+        <link href="https://justtulsa.github.io/OCinsider/welcome-to-openclawinsidercom.html"/>
+        <id>https://justtulsa.github.io/OCinsider/welcome-to-openclawinsidercom.html</id>
+
+        <updated>2026-02-19T06:04:48-06:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Test Post #1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test Post #1</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

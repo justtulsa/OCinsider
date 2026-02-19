@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://justtulsa.github.io/OCinsider/sitemap.xml
